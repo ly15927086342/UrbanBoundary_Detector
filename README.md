@@ -30,7 +30,7 @@
 [Morpholim](https://sourcesup.renater.fr/www/morpholim/)
 
 # 开源协议
-MIT License. 
-引用请注明来源[https://github.com/ly15927086342/UrbanBoundary_Detector](https://github.com/ly15927086342/UrbanBoundary_Detector)
+MIT License.   
+引用请注明来源[https://github.com/ly15927086342/UrbanBoundary_Detector](https://github.com/ly15927086342/UrbanBoundary_Detector)  
 Author: Yu Li
 
