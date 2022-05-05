@@ -1,6 +1,9 @@
 # UrbanBoundary_Detector
 一款基于栅格数据的城市边界识别软件，用C++实现。
 
+# 发表文章
+Zhao, C.; Li, Y.; Weng, M. A Fractal Approach to Urban Boundary Delineation Based on Raster Land Use Maps: A Case of Shanghai, China. Land 2021, 10, 941. https://doi.org/10.3390/land10090941
+
 # 输入
 包含城市（urban）分类的栅格图，像素值为整数。栅格图不应该太大，像素分辨率可以是30m-1000m，控制tif的像素总数在10^9以内，否则程序内存过大。
 
